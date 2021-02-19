@@ -1,0 +1,13 @@
+C:\Users\Waqas\source\repos\HangmanStringBuilder\HangmanStringBuilder\bin\Debug\netcoreapp3.1\HangmanStringBuilder.exe
+C:\Users\Waqas\source\repos\HangmanStringBuilder\HangmanStringBuilder\bin\Debug\netcoreapp3.1\HangmanStringBuilder.deps.json
+C:\Users\Waqas\source\repos\HangmanStringBuilder\HangmanStringBuilder\bin\Debug\netcoreapp3.1\HangmanStringBuilder.runtimeconfig.json
+C:\Users\Waqas\source\repos\HangmanStringBuilder\HangmanStringBuilder\bin\Debug\netcoreapp3.1\HangmanStringBuilder.runtimeconfig.dev.json
+C:\Users\Waqas\source\repos\HangmanStringBuilder\HangmanStringBuilder\bin\Debug\netcoreapp3.1\HangmanStringBuilder.dll
+C:\Users\Waqas\source\repos\HangmanStringBuilder\HangmanStringBuilder\bin\Debug\netcoreapp3.1\HangmanStringBuilder.pdb
+C:\Users\Waqas\source\repos\HangmanStringBuilder\HangmanStringBuilder\obj\Debug\netcoreapp3.1\HangmanStringBuilder.csprojAssemblyReference.cache
+C:\Users\Waqas\source\repos\HangmanStringBuilder\HangmanStringBuilder\obj\Debug\netcoreapp3.1\HangmanStringBuilder.AssemblyInfoInputs.cache
+C:\Users\Waqas\source\repos\HangmanStringBuilder\HangmanStringBuilder\obj\Debug\netcoreapp3.1\HangmanStringBuilder.AssemblyInfo.cs
+C:\Users\Waqas\source\repos\HangmanStringBuilder\HangmanStringBuilder\obj\Debug\netcoreapp3.1\HangmanStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Waqas\source\repos\HangmanStringBuilder\HangmanStringBuilder\obj\Debug\netcoreapp3.1\HangmanStringBuilder.dll
+C:\Users\Waqas\source\repos\HangmanStringBuilder\HangmanStringBuilder\obj\Debug\netcoreapp3.1\HangmanStringBuilder.pdb
+C:\Users\Waqas\source\repos\HangmanStringBuilder\HangmanStringBuilder\obj\Debug\netcoreapp3.1\HangmanStringBuilder.genruntimeconfig.cache
